@@ -1,0 +1,8 @@
+title: Html5-video-player
+description: html5视频播放器，支持本地文件播放
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
